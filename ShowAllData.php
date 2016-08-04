@@ -43,8 +43,8 @@ include("header.php");
 	<th>Date</th>
 	<th>Time</th>
 	<th>Quantity</th>
-	<th>Numbers</th>
 	<th>Price</th>
+	<th>Numbers</th>
 </tr>
 
 
